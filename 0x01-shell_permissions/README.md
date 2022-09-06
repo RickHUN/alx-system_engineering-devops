@@ -1,1 +1,1 @@
-12. More directories added
+12. More directories
